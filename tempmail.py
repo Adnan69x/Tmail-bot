@@ -1,10 +1,8 @@
-# Author (C) @theSmartBisnu
-# Channel : https://t.me/itsSmartDev
-
 import re
 import requests
 import random
 import string
+import time
 from bs4 import BeautifulSoup
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
