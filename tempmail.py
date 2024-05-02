@@ -10,7 +10,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Initialize the bot and dispatcher
-API_TOKEN = '6826415817:AAG1alKRjdc20hXtYtVT20yowAR2nCnHLWQ'  # Change the token with your bot token
+API_TOKEN = '7198675016:AAEhGG7AedNnEHXY9J9kceXjtmkMsjBWwdU'  # Change the token with your bot token
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
